@@ -17,8 +17,10 @@ class ViewController: UIViewController {
 
     @IBAction func buttonClicked(_ sender: Any) {
         imageView.image = UIImage(named: "Simulator Screenshot - iPhone 16 Pro Max - 2025-02-16 at 14.42.47")
+        imageView.image = UIImage(named: "Simulator Screenshot - iPhone 16 Pro Max - 2025-02-16 at 14.42.47")
+
        
-        
+    
         
     }
     
